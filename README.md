@@ -21,7 +21,7 @@ This project focuses on detecting **rice leaf diseases** using **deep learning m
   4. Tungro  
 - **Size:** 5932 labeled images
 
-##  UI  
+##  System UI  
 
 <img width="1683" height="925" alt="rice2 (1)" src="https://github.com/user-attachments/assets/ff29338b-83b4-458b-867e-d979af1929ff" />
 
