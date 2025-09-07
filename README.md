@@ -24,6 +24,7 @@ This project focuses on detecting **rice leaf diseases** using **deep learning m
 ##  UI  
 
 <img width="1683" height="925" alt="rice2 (1)" src="https://github.com/user-attachments/assets/ff29338b-83b4-458b-867e-d979af1929ff" />
+
 ##  System Oversview  
 
 <img width="892" height="394" alt="image" src="https://github.com/user-attachments/assets/1c19b1af-8144-4c99-90a2-8e5174c81366" />
